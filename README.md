@@ -1,2 +1,0 @@
-# ruby-scripts
-Ruby scripts
