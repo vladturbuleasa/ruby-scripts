@@ -18,11 +18,11 @@ source ~/.bash_profile
 The AWS Region will be needed when you will run the script
 
 ### Run the script
-In order to run the script , copy it on the system and:
+In order to run the script , copy it on the system and run, don't forget to change the region from eu-central-1 to the needed region:
 ```access transformers
 chmod +x iam.rb 
 source ~/.bash_profile
-ruby iam.rb
+ruby iam.rb eu-central-1
 ```
 
 *Note:* If there is a bug or an improvment that can be made please let me know at vlad.turbuleasa@gmail.com
